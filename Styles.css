@@ -1,0 +1,32 @@
+h1, h2, p {
+    text-align: center;
+}
+
+.header {
+    background-color:aqua;
+}
+
+.menu {
+    background-color:rgb(2, 166, 166);
+    margin-left: auto;
+    margin-right:auto;
+    width:fit-content;
+}
+
+ul {
+    list-style: none;
+}
+
+.about {
+    text-align: right;
+    width: 49%;
+}
+
+.project {
+    text-align: left;
+    width: 49%;
+}
+
+.header p {
+    display: inline-block;
+} 
