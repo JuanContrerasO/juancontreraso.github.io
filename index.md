@@ -10,7 +10,7 @@ My GitHub page is <http://github.com/JuanContrerasO>.
 
 * Lab 1
 
-    Lab 1 was a favorite because it was the first program I have ever "created," and it will be a memory that will remain with me for life. In addition, I was able to, for the first time, instruct the computer so that it would print "Hello World" on the computer's screen. Furthermore, it also helped me become familiar with Git, GitHub & GitHub Classroom.
+    Lab 1 was a favorite because it was the first program I have ever "created," and it will be a memory that will remain with me for life. In addition, I was able to, for the first time, instruct the computer so that it would print "Hello World" on the computer's screen. Furthermore, it helped me become familiar with Git, GitHub & GitHub Classroom.
 
 * Lab 2
 
